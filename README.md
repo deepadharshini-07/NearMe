@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 map.html
 <html>
 <body>
@@ -87,7 +88,7 @@ Temple 3.html
         <p>This temple is located near to the Yoga narasiman temple ,this is also a famous temple in this place.</p>
     </body>
 </html>
-
+```
 
 ## OUTPUT
 ![alt text](<Screenshot 2024-12-11 204535.png>)
